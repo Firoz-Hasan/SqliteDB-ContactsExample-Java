@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ContactbdjobsProject</string>
+    <string name="number_type">Choose type</string>
+
+    <string-array name="numberplace_arrays">
+        <item>Home</item>
+        <item>Work</item>
+        <item>Main</item>
+        <item>Other</item>
+
+
+    </string-array>
+    <string name="title_activity_contact_list_acitvity">ContactListAcitvity</string>
+    <string name="title_activity_vvvvvvvvvvvvv">vvvvvvvvvvvvv</string>
+
+
+</resources>
