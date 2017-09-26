@@ -1,18 +1,18 @@
 [
     {
-        "merged": "C:\\Users\\FIROZ HASAN\\Desktop\\version home\\ContactbdjobsProject\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher_round.png",
-        "source": "C:\\Users\\FIROZ HASAN\\Desktop\\version home\\ContactbdjobsProject\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+        "merged": "/Users/firozhasan/Desktop/Android-Projects/ContactbdjobsProject/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/contactlistt.png",
+        "source": "/Users/firozhasan/Desktop/Android-Projects/ContactbdjobsProject/app/src/main/res/mipmap-xxxhdpi/contactlistt.png"
     },
     {
-        "merged": "C:\\Users\\FIROZ HASAN\\Desktop\\version home\\ContactbdjobsProject\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\contactlistt.png",
-        "source": "C:\\Users\\FIROZ HASAN\\Desktop\\version home\\ContactbdjobsProject\\app\\src\\main\\res\\mipmap-xxxhdpi\\contactlistt.png"
+        "merged": "/Users/firozhasan/Desktop/Android-Projects/ContactbdjobsProject/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher_round.png",
+        "source": "/Users/firozhasan/Desktop/Android-Projects/ContactbdjobsProject/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\FIROZ HASAN\\Desktop\\version home\\ContactbdjobsProject\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
-        "source": "C:\\Users\\FIROZ HASAN\\Desktop\\version home\\ContactbdjobsProject\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+        "merged": "/Users/firozhasan/Desktop/Android-Projects/ContactbdjobsProject/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
+        "source": "/Users/firozhasan/Desktop/Android-Projects/ContactbdjobsProject/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\FIROZ HASAN\\Desktop\\version home\\ContactbdjobsProject\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\newcontact.png",
-        "source": "C:\\Users\\FIROZ HASAN\\Desktop\\version home\\ContactbdjobsProject\\app\\src\\main\\res\\mipmap-xxxhdpi\\newcontact.png"
+        "merged": "/Users/firozhasan/Desktop/Android-Projects/ContactbdjobsProject/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/newcontact.png",
+        "source": "/Users/firozhasan/Desktop/Android-Projects/ContactbdjobsProject/app/src/main/res/mipmap-xxxhdpi/newcontact.png"
     }
 ]

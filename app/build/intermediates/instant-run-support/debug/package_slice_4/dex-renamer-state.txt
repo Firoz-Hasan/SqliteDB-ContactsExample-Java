@@ -1,4 +1,4 @@
-#Thu Aug 03 16:55:25 BDT 2017
-base.0=C\:\\Users\\FIROZ HASAN\\Desktop\\version home\\ContactbdjobsProject\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_4
+#Tue Sep 26 21:15:04 BDT 2017
+base.0=/Users/firozhasan/Desktop/Android-Projects/ContactbdjobsProject/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4
 renamed.0=classes.dex
-file.0=C\:\\Users\\FIROZ HASAN\\Desktop\\version home\\ContactbdjobsProject\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_4\\classes.dex
+file.0=/Users/firozhasan/Desktop/Android-Projects/ContactbdjobsProject/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex

@@ -1,34 +1,34 @@
 [
     {
-        "merged": "C:\\Users\\FIROZ HASAN\\Desktop\\version home\\ContactbdjobsProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_hide_password.xml",
-        "source": "C:\\Users\\FIROZ HASAN\\.android\\build-cache\\e2b3d36ae3643c8ffe2fca5095088134c271420d\\output\\res\\drawable-v21\\avd_hide_password.xml"
+        "merged": "/Users/firozhasan/Desktop/Android-Projects/ContactbdjobsProject/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/firozhasan/.android/build-cache/7a2cf07c8ca1cb8877baf994c1f95b697ebc8451/output/res/drawable-v21/abc_btn_colored_material.xml"
     },
     {
-        "merged": "C:\\Users\\FIROZ HASAN\\Desktop\\version home\\ContactbdjobsProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
-        "source": "C:\\Users\\FIROZ HASAN\\.android\\build-cache\\b7c52365fe004d574c9b1967a5c42cd223804234\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+        "merged": "/Users/firozhasan/Desktop/Android-Projects/ContactbdjobsProject/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/firozhasan/.android/build-cache/7a2cf07c8ca1cb8877baf994c1f95b697ebc8451/output/res/drawable-v21/notification_action_background.xml"
     },
     {
-        "merged": "C:\\Users\\FIROZ HASAN\\Desktop\\version home\\ContactbdjobsProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
-        "source": "C:\\Users\\FIROZ HASAN\\.android\\build-cache\\b7c52365fe004d574c9b1967a5c42cd223804234\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+        "merged": "/Users/firozhasan/Desktop/Android-Projects/ContactbdjobsProject/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/firozhasan/.android/build-cache/7a2cf07c8ca1cb8877baf994c1f95b697ebc8451/output/res/drawable-v21/abc_edit_text_material.xml"
     },
     {
-        "merged": "C:\\Users\\FIROZ HASAN\\Desktop\\version home\\ContactbdjobsProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_show_password.xml",
-        "source": "C:\\Users\\FIROZ HASAN\\.android\\build-cache\\e2b3d36ae3643c8ffe2fca5095088134c271420d\\output\\res\\drawable-v21\\avd_show_password.xml"
+        "merged": "/Users/firozhasan/Desktop/Android-Projects/ContactbdjobsProject/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/firozhasan/.android/build-cache/7a2cf07c8ca1cb8877baf994c1f95b697ebc8451/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
     },
     {
-        "merged": "C:\\Users\\FIROZ HASAN\\Desktop\\version home\\ContactbdjobsProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_password_eye.xml",
-        "source": "C:\\Users\\FIROZ HASAN\\.android\\build-cache\\e2b3d36ae3643c8ffe2fca5095088134c271420d\\output\\res\\drawable-v21\\design_password_eye.xml"
+        "merged": "/Users/firozhasan/Desktop/Android-Projects/ContactbdjobsProject/app/build/intermediates/res/merged/debug/drawable-v21/avd_show_password.xml",
+        "source": "/Users/firozhasan/.android/build-cache/ea27be6b25d368872a333e807fb4bbfced8cfd9e/output/res/drawable-v21/avd_show_password.xml"
     },
     {
-        "merged": "C:\\Users\\FIROZ HASAN\\Desktop\\version home\\ContactbdjobsProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
-        "source": "C:\\Users\\FIROZ HASAN\\.android\\build-cache\\e2b3d36ae3643c8ffe2fca5095088134c271420d\\output\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+        "merged": "/Users/firozhasan/Desktop/Android-Projects/ContactbdjobsProject/app/build/intermediates/res/merged/debug/drawable-v21/avd_hide_password.xml",
+        "source": "/Users/firozhasan/.android/build-cache/ea27be6b25d368872a333e807fb4bbfced8cfd9e/output/res/drawable-v21/avd_hide_password.xml"
     },
     {
-        "merged": "C:\\Users\\FIROZ HASAN\\Desktop\\version home\\ContactbdjobsProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
-        "source": "C:\\Users\\FIROZ HASAN\\.android\\build-cache\\b7c52365fe004d574c9b1967a5c42cd223804234\\output\\res\\drawable-v21\\notification_action_background.xml"
+        "merged": "/Users/firozhasan/Desktop/Android-Projects/ContactbdjobsProject/app/build/intermediates/res/merged/debug/drawable-v21/design_password_eye.xml",
+        "source": "/Users/firozhasan/.android/build-cache/ea27be6b25d368872a333e807fb4bbfced8cfd9e/output/res/drawable-v21/design_password_eye.xml"
     },
     {
-        "merged": "C:\\Users\\FIROZ HASAN\\Desktop\\version home\\ContactbdjobsProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
-        "source": "C:\\Users\\FIROZ HASAN\\.android\\build-cache\\b7c52365fe004d574c9b1967a5c42cd223804234\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+        "merged": "/Users/firozhasan/Desktop/Android-Projects/ContactbdjobsProject/app/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/Users/firozhasan/.android/build-cache/ea27be6b25d368872a333e807fb4bbfced8cfd9e/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
     }
 ]

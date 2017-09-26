@@ -1,10 +1,10 @@
 [
     {
-        "merged": "C:\\Users\\FIROZ HASAN\\Desktop\\version home\\ContactbdjobsProject\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
-        "source": "C:\\Users\\FIROZ HASAN\\.android\\build-cache\\e2b3d36ae3643c8ffe2fca5095088134c271420d\\output\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+        "merged": "/Users/firozhasan/Desktop/Android-Projects/ContactbdjobsProject/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/firozhasan/.android/build-cache/ea27be6b25d368872a333e807fb4bbfced8cfd9e/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
     },
     {
-        "merged": "C:\\Users\\FIROZ HASAN\\Desktop\\version home\\ContactbdjobsProject\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
-        "source": "C:\\Users\\FIROZ HASAN\\.android\\build-cache\\e2b3d36ae3643c8ffe2fca5095088134c271420d\\output\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+        "merged": "/Users/firozhasan/Desktop/Android-Projects/ContactbdjobsProject/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/firozhasan/.android/build-cache/ea27be6b25d368872a333e807fb4bbfced8cfd9e/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
     }
 ]

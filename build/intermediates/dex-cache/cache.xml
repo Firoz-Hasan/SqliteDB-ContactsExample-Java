@@ -3,21 +3,21 @@
 
     <item
         is-multidex="true"
-        jar="C:\Users\FIROZ HASAN\Desktop\version home\ContactbdjobsProject\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jar="/Users/firozhasan/Desktop/Android-Projects/ContactbdjobsProject/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="26.0.0"
-        sha1="197e756992b05a7a500be1b461fc70401b5e1758">
-        <dex dex="C:\Users\FIROZ HASAN\Desktop\version home\ContactbdjobsProject\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_d9bd4dde39a91505f0895b8a7edd40528255461c\classes.dex" />
+        sha1="85e48bf35575aa6918c11833be5bd42a38de2c24">
+        <dex dex="/Users/firozhasan/Desktop/Android-Projects/ContactbdjobsProject/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_eaaa3121740f5d321c475edf6a6fc1a007404797/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\FIROZ HASAN\Desktop\version home\ContactbdjobsProject\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jar="/Users/firozhasan/Desktop/Android-Projects/ContactbdjobsProject/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="26.0.0"
         sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
-        <dex dex="C:\Users\FIROZ HASAN\Desktop\version home\ContactbdjobsProject\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_d006fb11b49629a77c1e32089de39d5af95c038c\classes.dex" />
+        <dex dex="/Users/firozhasan/Desktop/Android-Projects/ContactbdjobsProject/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c946d9524d4bc94cf770e5119c86213e8d9e03fe/classes.dex" />
     </item>
 
 </items>

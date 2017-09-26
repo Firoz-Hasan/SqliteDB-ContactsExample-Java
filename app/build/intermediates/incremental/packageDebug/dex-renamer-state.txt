@@ -1,7 +1,7 @@
-#Sun Sep 24 09:32:04 BDT 2017
-base.0=C\:\\Users\\FIROZ HASAN\\Desktop\\version home\\ContactbdjobsProject\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_d006fb11b49629a77c1e32089de39d5af95c038c
+#Tue Sep 26 21:15:04 BDT 2017
+base.0=/Users/firozhasan/Desktop/Android-Projects/ContactbdjobsProject/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_eaaa3121740f5d321c475edf6a6fc1a007404797
 renamed.1=classes.dex
 renamed.0=classes2.dex
-file.1=C\:\\Users\\FIROZ HASAN\\Desktop\\version home\\ContactbdjobsProject\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_d9bd4dde39a91505f0895b8a7edd40528255461c\\classes.dex
-base.1=C\:\\Users\\FIROZ HASAN\\Desktop\\version home\\ContactbdjobsProject\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_d9bd4dde39a91505f0895b8a7edd40528255461c
-file.0=C\:\\Users\\FIROZ HASAN\\Desktop\\version home\\ContactbdjobsProject\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_d006fb11b49629a77c1e32089de39d5af95c038c\\classes.dex
+file.1=/Users/firozhasan/Desktop/Android-Projects/ContactbdjobsProject/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c946d9524d4bc94cf770e5119c86213e8d9e03fe/classes.dex
+base.1=/Users/firozhasan/Desktop/Android-Projects/ContactbdjobsProject/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c946d9524d4bc94cf770e5119c86213e8d9e03fe
+file.0=/Users/firozhasan/Desktop/Android-Projects/ContactbdjobsProject/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_eaaa3121740f5d321c475edf6a6fc1a007404797/classes.dex

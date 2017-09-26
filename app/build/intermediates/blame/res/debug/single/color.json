@@ -1,90 +1,90 @@
 [
     {
-        "merged": "C:\\Users\\FIROZ HASAN\\Desktop\\version home\\ContactbdjobsProject\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
-        "source": "C:\\Users\\FIROZ HASAN\\.android\\build-cache\\b7c52365fe004d574c9b1967a5c42cd223804234\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+        "merged": "/Users/firozhasan/Desktop/Android-Projects/ContactbdjobsProject/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml",
+        "source": "/Users/firozhasan/.android/build-cache/7a2cf07c8ca1cb8877baf994c1f95b697ebc8451/output/res/color/abc_hint_foreground_material_dark.xml"
     },
     {
-        "merged": "C:\\Users\\FIROZ HASAN\\Desktop\\version home\\ContactbdjobsProject\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_edittext.xml",
-        "source": "C:\\Users\\FIROZ HASAN\\.android\\build-cache\\b7c52365fe004d574c9b1967a5c42cd223804234\\output\\res\\color\\abc_tint_edittext.xml"
+        "merged": "/Users/firozhasan/Desktop/Android-Projects/ContactbdjobsProject/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/Users/firozhasan/.android/build-cache/7a2cf07c8ca1cb8877baf994c1f95b697ebc8451/output/res/color/abc_primary_text_material_light.xml"
     },
     {
-        "merged": "C:\\Users\\FIROZ HASAN\\Desktop\\version home\\ContactbdjobsProject\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
-        "source": "C:\\Users\\FIROZ HASAN\\.android\\build-cache\\b7c52365fe004d574c9b1967a5c42cd223804234\\output\\res\\color\\abc_secondary_text_material_light.xml"
+        "merged": "/Users/firozhasan/Desktop/Android-Projects/ContactbdjobsProject/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/firozhasan/.android/build-cache/7a2cf07c8ca1cb8877baf994c1f95b697ebc8451/output/res/color/abc_secondary_text_material_dark.xml"
     },
     {
-        "merged": "C:\\Users\\FIROZ HASAN\\Desktop\\version home\\ContactbdjobsProject\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_spinner.xml",
-        "source": "C:\\Users\\FIROZ HASAN\\.android\\build-cache\\b7c52365fe004d574c9b1967a5c42cd223804234\\output\\res\\color\\abc_tint_spinner.xml"
+        "merged": "/Users/firozhasan/Desktop/Android-Projects/ContactbdjobsProject/app/build/intermediates/res/merged/debug/color/design_tint_password_toggle.xml",
+        "source": "/Users/firozhasan/.android/build-cache/ea27be6b25d368872a333e807fb4bbfced8cfd9e/output/res/color/design_tint_password_toggle.xml"
     },
     {
-        "merged": "C:\\Users\\FIROZ HASAN\\Desktop\\version home\\ContactbdjobsProject\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
-        "source": "C:\\Users\\FIROZ HASAN\\.android\\build-cache\\b7c52365fe004d574c9b1967a5c42cd223804234\\output\\res\\color\\switch_thumb_material_light.xml"
+        "merged": "/Users/firozhasan/Desktop/Android-Projects/ContactbdjobsProject/app/build/intermediates/res/merged/debug/color/abc_tint_switch_track.xml",
+        "source": "/Users/firozhasan/.android/build-cache/7a2cf07c8ca1cb8877baf994c1f95b697ebc8451/output/res/color/abc_tint_switch_track.xml"
     },
     {
-        "merged": "C:\\Users\\FIROZ HASAN\\Desktop\\version home\\ContactbdjobsProject\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
-        "source": "C:\\Users\\FIROZ HASAN\\.android\\build-cache\\b7c52365fe004d574c9b1967a5c42cd223804234\\output\\res\\color\\abc_primary_text_material_light.xml"
+        "merged": "/Users/firozhasan/Desktop/Android-Projects/ContactbdjobsProject/app/build/intermediates/res/merged/debug/color/abc_tint_default.xml",
+        "source": "/Users/firozhasan/.android/build-cache/7a2cf07c8ca1cb8877baf994c1f95b697ebc8451/output/res/color/abc_tint_default.xml"
     },
     {
-        "merged": "C:\\Users\\FIROZ HASAN\\Desktop\\version home\\ContactbdjobsProject\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
-        "source": "C:\\Users\\FIROZ HASAN\\.android\\build-cache\\b7c52365fe004d574c9b1967a5c42cd223804234\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+        "merged": "/Users/firozhasan/Desktop/Android-Projects/ContactbdjobsProject/app/build/intermediates/res/merged/debug/color/abc_tint_edittext.xml",
+        "source": "/Users/firozhasan/.android/build-cache/7a2cf07c8ca1cb8877baf994c1f95b697ebc8451/output/res/color/abc_tint_edittext.xml"
     },
     {
-        "merged": "C:\\Users\\FIROZ HASAN\\Desktop\\version home\\ContactbdjobsProject\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
-        "source": "C:\\Users\\FIROZ HASAN\\.android\\build-cache\\b7c52365fe004d574c9b1967a5c42cd223804234\\output\\res\\color\\switch_thumb_material_dark.xml"
+        "merged": "/Users/firozhasan/Desktop/Android-Projects/ContactbdjobsProject/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
+        "source": "/Users/firozhasan/.android/build-cache/7a2cf07c8ca1cb8877baf994c1f95b697ebc8451/output/res/color/abc_hint_foreground_material_light.xml"
     },
     {
-        "merged": "C:\\Users\\FIROZ HASAN\\Desktop\\version home\\ContactbdjobsProject\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
-        "source": "C:\\Users\\FIROZ HASAN\\.android\\build-cache\\b7c52365fe004d574c9b1967a5c42cd223804234\\output\\res\\color\\abc_tint_default.xml"
+        "merged": "/Users/firozhasan/Desktop/Android-Projects/ContactbdjobsProject/app/build/intermediates/res/merged/debug/color/abc_tint_switch_thumb.xml",
+        "source": "/Users/firozhasan/.android/build-cache/7a2cf07c8ca1cb8877baf994c1f95b697ebc8451/output/res/color/abc_tint_switch_thumb.xml"
     },
     {
-        "merged": "C:\\Users\\FIROZ HASAN\\Desktop\\version home\\ContactbdjobsProject\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
-        "source": "C:\\Users\\FIROZ HASAN\\.android\\build-cache\\b7c52365fe004d574c9b1967a5c42cd223804234\\output\\res\\color\\abc_hint_foreground_material_light.xml"
+        "merged": "/Users/firozhasan/Desktop/Android-Projects/ContactbdjobsProject/app/build/intermediates/res/merged/debug/color/abc_tint_seek_thumb.xml",
+        "source": "/Users/firozhasan/.android/build-cache/7a2cf07c8ca1cb8877baf994c1f95b697ebc8451/output/res/color/abc_tint_seek_thumb.xml"
     },
     {
-        "merged": "C:\\Users\\FIROZ HASAN\\Desktop\\version home\\ContactbdjobsProject\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
-        "source": "C:\\Users\\FIROZ HASAN\\.android\\build-cache\\b7c52365fe004d574c9b1967a5c42cd223804234\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
+        "merged": "/Users/firozhasan/Desktop/Android-Projects/ContactbdjobsProject/app/build/intermediates/res/merged/debug/color/abc_tint_btn_checkable.xml",
+        "source": "/Users/firozhasan/.android/build-cache/7a2cf07c8ca1cb8877baf994c1f95b697ebc8451/output/res/color/abc_tint_btn_checkable.xml"
     },
     {
-        "merged": "C:\\Users\\FIROZ HASAN\\Desktop\\version home\\ContactbdjobsProject\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
-        "source": "C:\\Users\\FIROZ HASAN\\.android\\build-cache\\b7c52365fe004d574c9b1967a5c42cd223804234\\output\\res\\color\\abc_search_url_text.xml"
+        "merged": "/Users/firozhasan/Desktop/Android-Projects/ContactbdjobsProject/app/build/intermediates/res/merged/debug/color/abc_tint_spinner.xml",
+        "source": "/Users/firozhasan/.android/build-cache/7a2cf07c8ca1cb8877baf994c1f95b697ebc8451/output/res/color/abc_tint_spinner.xml"
     },
     {
-        "merged": "C:\\Users\\FIROZ HASAN\\Desktop\\version home\\ContactbdjobsProject\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_seek_thumb.xml",
-        "source": "C:\\Users\\FIROZ HASAN\\.android\\build-cache\\b7c52365fe004d574c9b1967a5c42cd223804234\\output\\res\\color\\abc_tint_seek_thumb.xml"
+        "merged": "/Users/firozhasan/Desktop/Android-Projects/ContactbdjobsProject/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/Users/firozhasan/.android/build-cache/7a2cf07c8ca1cb8877baf994c1f95b697ebc8451/output/res/color/abc_search_url_text.xml"
     },
     {
-        "merged": "C:\\Users\\FIROZ HASAN\\Desktop\\version home\\ContactbdjobsProject\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_text_material.xml",
-        "source": "C:\\Users\\FIROZ HASAN\\.android\\build-cache\\b7c52365fe004d574c9b1967a5c42cd223804234\\output\\res\\color\\abc_btn_colored_text_material.xml"
+        "merged": "/Users/firozhasan/Desktop/Android-Projects/ContactbdjobsProject/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/Users/firozhasan/.android/build-cache/7a2cf07c8ca1cb8877baf994c1f95b697ebc8451/output/res/color/switch_thumb_material_light.xml"
     },
     {
-        "merged": "C:\\Users\\FIROZ HASAN\\Desktop\\version home\\ContactbdjobsProject\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
-        "source": "C:\\Users\\FIROZ HASAN\\.android\\build-cache\\b7c52365fe004d574c9b1967a5c42cd223804234\\output\\res\\color\\abc_primary_text_material_dark.xml"
+        "merged": "/Users/firozhasan/Desktop/Android-Projects/ContactbdjobsProject/app/build/intermediates/res/merged/debug/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/firozhasan/.android/build-cache/7a2cf07c8ca1cb8877baf994c1f95b697ebc8451/output/res/color/abc_btn_colored_borderless_text_material.xml"
     },
     {
-        "merged": "C:\\Users\\FIROZ HASAN\\Desktop\\version home\\ContactbdjobsProject\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_tint_password_toggle.xml",
-        "source": "C:\\Users\\FIROZ HASAN\\.android\\build-cache\\e2b3d36ae3643c8ffe2fca5095088134c271420d\\output\\res\\color\\design_tint_password_toggle.xml"
+        "merged": "/Users/firozhasan/Desktop/Android-Projects/ContactbdjobsProject/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/Users/firozhasan/.android/build-cache/7a2cf07c8ca1cb8877baf994c1f95b697ebc8451/output/res/color/switch_thumb_material_dark.xml"
     },
     {
-        "merged": "C:\\Users\\FIROZ HASAN\\Desktop\\version home\\ContactbdjobsProject\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
-        "source": "C:\\Users\\FIROZ HASAN\\.android\\build-cache\\b7c52365fe004d574c9b1967a5c42cd223804234\\output\\res\\color\\abc_tint_btn_checkable.xml"
+        "merged": "/Users/firozhasan/Desktop/Android-Projects/ContactbdjobsProject/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/firozhasan/.android/build-cache/7a2cf07c8ca1cb8877baf994c1f95b697ebc8451/output/res/color/abc_primary_text_disable_only_material_light.xml"
     },
     {
-        "merged": "C:\\Users\\FIROZ HASAN\\Desktop\\version home\\ContactbdjobsProject\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_error.xml",
-        "source": "C:\\Users\\FIROZ HASAN\\.android\\build-cache\\e2b3d36ae3643c8ffe2fca5095088134c271420d\\output\\res\\color\\design_error.xml"
+        "merged": "/Users/firozhasan/Desktop/Android-Projects/ContactbdjobsProject/app/build/intermediates/res/merged/debug/color/abc_btn_colored_text_material.xml",
+        "source": "/Users/firozhasan/.android/build-cache/7a2cf07c8ca1cb8877baf994c1f95b697ebc8451/output/res/color/abc_btn_colored_text_material.xml"
     },
     {
-        "merged": "C:\\Users\\FIROZ HASAN\\Desktop\\version home\\ContactbdjobsProject\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
-        "source": "C:\\Users\\FIROZ HASAN\\.android\\build-cache\\b7c52365fe004d574c9b1967a5c42cd223804234\\output\\res\\color\\abc_btn_colored_borderless_text_material.xml"
+        "merged": "/Users/firozhasan/Desktop/Android-Projects/ContactbdjobsProject/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/firozhasan/.android/build-cache/7a2cf07c8ca1cb8877baf994c1f95b697ebc8451/output/res/color/abc_secondary_text_material_light.xml"
     },
     {
-        "merged": "C:\\Users\\FIROZ HASAN\\Desktop\\version home\\ContactbdjobsProject\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_thumb.xml",
-        "source": "C:\\Users\\FIROZ HASAN\\.android\\build-cache\\b7c52365fe004d574c9b1967a5c42cd223804234\\output\\res\\color\\abc_tint_switch_thumb.xml"
+        "merged": "/Users/firozhasan/Desktop/Android-Projects/ContactbdjobsProject/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/firozhasan/.android/build-cache/7a2cf07c8ca1cb8877baf994c1f95b697ebc8451/output/res/color/abc_primary_text_disable_only_material_dark.xml"
     },
     {
-        "merged": "C:\\Users\\FIROZ HASAN\\Desktop\\version home\\ContactbdjobsProject\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
-        "source": "C:\\Users\\FIROZ HASAN\\.android\\build-cache\\b7c52365fe004d574c9b1967a5c42cd223804234\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+        "merged": "/Users/firozhasan/Desktop/Android-Projects/ContactbdjobsProject/app/build/intermediates/res/merged/debug/color/design_error.xml",
+        "source": "/Users/firozhasan/.android/build-cache/ea27be6b25d368872a333e807fb4bbfced8cfd9e/output/res/color/design_error.xml"
     },
     {
-        "merged": "C:\\Users\\FIROZ HASAN\\Desktop\\version home\\ContactbdjobsProject\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
-        "source": "C:\\Users\\FIROZ HASAN\\.android\\build-cache\\b7c52365fe004d574c9b1967a5c42cd223804234\\output\\res\\color\\abc_tint_switch_track.xml"
+        "merged": "/Users/firozhasan/Desktop/Android-Projects/ContactbdjobsProject/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/firozhasan/.android/build-cache/7a2cf07c8ca1cb8877baf994c1f95b697ebc8451/output/res/color/abc_primary_text_material_dark.xml"
     }
 ]

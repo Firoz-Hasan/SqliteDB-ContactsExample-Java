@@ -14,6 +14,7 @@ import android.widget.Toast;
 import java.util.ArrayList;
 
 public class MainActivity extends AppCompatActivity {
+    // working perfectly all save update and delete functionality
 
     EditText ctName, ctNumber, ctEmail;
     Spinner numberSpn, emailSpn;

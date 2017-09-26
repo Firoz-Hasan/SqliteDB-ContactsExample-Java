@@ -1,80 +1,86 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    abi="x86_64,x86"
-    api-level="24"
+    abi="x86"
+    api-level="23"
     build-mode="COLD"
-    density="xxhdpi"
+    density="420dpi"
     format="10"
     plugin-version="2.3.3"
-    timestamp="1506314559570"
-    token="4820724619765251739"
+    timestamp="1506439217513"
+    token="3047085955129569182"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="1763" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="75" />
     <task
         name="verifier"
-        duration="0" />
+        duration="60" />
+
+    <artifact
+        location="/Users/firozhasan/Desktop/Android-Projects/ContactbdjobsProject/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/firozhasan/Desktop/Android-Projects/ContactbdjobsProject/app/build/outputs/apk/app-debug.apk"
+        type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
-        timestamp="1506313188629"
+        timestamp="1506438899892"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="C:\Users\FIROZ HASAN\Desktop\version home\ContactbdjobsProject\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+            location="/Users/firozhasan/Desktop/Android-Projects/ContactbdjobsProject/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\FIROZ HASAN\Desktop\version home\ContactbdjobsProject\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+            location="/Users/firozhasan/Desktop/Android-Projects/ContactbdjobsProject/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\FIROZ HASAN\Desktop\version home\ContactbdjobsProject\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
+            location="/Users/firozhasan/Desktop/Android-Projects/ContactbdjobsProject/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\FIROZ HASAN\Desktop\version home\ContactbdjobsProject\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+            location="/Users/firozhasan/Desktop/Android-Projects/ContactbdjobsProject/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\FIROZ HASAN\Desktop\version home\ContactbdjobsProject\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
+            location="/Users/firozhasan/Desktop/Android-Projects/ContactbdjobsProject/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\FIROZ HASAN\Desktop\version home\ContactbdjobsProject\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
+            location="/Users/firozhasan/Desktop/Android-Projects/ContactbdjobsProject/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\FIROZ HASAN\Desktop\version home\ContactbdjobsProject\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+            location="/Users/firozhasan/Desktop/Android-Projects/ContactbdjobsProject/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\FIROZ HASAN\Desktop\version home\ContactbdjobsProject\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
+            location="/Users/firozhasan/Desktop/Android-Projects/ContactbdjobsProject/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\FIROZ HASAN\Desktop\version home\ContactbdjobsProject\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
+            location="/Users/firozhasan/Desktop/Android-Projects/ContactbdjobsProject/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\FIROZ HASAN\Desktop\version home\ContactbdjobsProject\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
+            location="/Users/firozhasan/Desktop/Android-Projects/ContactbdjobsProject/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\FIROZ HASAN\Desktop\version home\ContactbdjobsProject\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+            location="/Users/firozhasan/Desktop/Android-Projects/ContactbdjobsProject/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\FIROZ HASAN\Desktop\version home\ContactbdjobsProject\app\build\outputs\apk\app-debug.apk"
+            location="/Users/firozhasan/Desktop/Android-Projects/ContactbdjobsProject/app/build/outputs/apk/app-debug.apk"
             type="SPLIT_MAIN" />
     </build>
     <build
         build-mode="COLD"
-        timestamp="1506314543266"
+        timestamp="1506439217513"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
-            location="C:\Users\FIROZ HASAN\Desktop\version home\ContactbdjobsProject\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+            location="/Users/firozhasan/Desktop/Android-Projects/ContactbdjobsProject/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
             type="SPLIT" />
+        <artifact
+            location="/Users/firozhasan/Desktop/Android-Projects/ContactbdjobsProject/app/build/outputs/apk/app-debug.apk"
+            type="SPLIT_MAIN" />
     </build>
-    <build
-        build-mode="COLD"
-        timestamp="1506314559570"
-        verifier="COLD_SWAP_REQUESTED" />
 
 </instant-run>
